@@ -85,6 +85,25 @@
   box-sizing: border-box;
 }
 
+.profile{
+    width: 7em;
+    border-radius: 6em;
+}
+
+.profilediv{
+    text-align: center;
+}
+
+.centerprofiletext{
+    text-align: center;
+}
+
+
+#center{
+    text-align: center;
+}
+
+
 @media (prefers-reduced-motion: no-preference) {
   :root {
     scroll-behavior: smooth;
@@ -7650,6 +7669,7 @@ textarea.form-control-lg {
 
 .mb-0 {
   margin-bottom: 0 !important;
+  text-align: c
 }
 
 .mb-1 {
